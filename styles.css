@@ -1,0 +1,226 @@
+/* My Custom Css */
+body {
+    background-color: Black;
+   
+    
+}
+
+.navbar{
+    background:linear-gradient(to bottom,#983338,#75272A,#3B1214);
+     
+}
+
+
+.navbar ul li a{
+      font-family: "Ingrid Darling", cursive;
+    Color:white;
+    font-size:56px;
+  
+    
+    
+}
+    
+
+h1{
+     font-family: "Fleur De Leah", cursive;
+    font-weight:500;
+    color: #ffa700;
+    font-size: 150px;
+    background: none;
+    
+}
+
+
+
+h2{
+   font-family: "Merienda", cursive;
+    font-weight:500;
+    color: #ffa700;
+    font-size: 78px;
+    background: none;
+    
+}
+
+h3{
+     font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+    font-size:30px;
+     color: #ffa700; 
+    margin-left:auto;
+    margin-right: auto;
+    padding:30px;
+      
+}
+
+h5{
+    font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+    font-size:46px;
+     color: #ffa700; 
+    
+    
+}
+
+h6{
+       font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+    font-size:56px;
+     color: #ffa700;
+    
+}
+
+
+.jumbotron{
+    background:none;
+}
+.row >.col-sm-10 {
+    padding: 15px;
+    height:300px;
+    width:100%;
+        background-color:red;
+}
+
+
+
+.row{
+    
+    margin-right:auto;
+    margin-left:auto;
+}
+
+
+.teaparty<img{
+     margin-right:auto;
+    margin-left:auto;
+   
+}
+.row >.col-sm-3{
+      padding: 15px;
+    height:150px;
+    width: 90%;
+        background-color:red;
+}
+.row >.col-sm-1{
+    padding: 15px;
+    height:35px;
+    width:100%;
+background-color:red;
+}
+
+.row >.col-sm-2{
+    padding: 15px;
+    height:340px;
+    width:100%;
+background-color:red;
+}
+
+.press{
+    margin-right: auto;
+    margin-left: auto;
+}
+.teaparty > button{
+ flex:row;
+ font-family: "Fleur De Leah", cursive;
+    overflow: hidden;
+    font-weight:500;
+    font-size:50px;
+    font-weight:500;
+    color:#ffa700;
+  background:linear-gradient(to bottom,#331113,#652125);
+   width:400px;
+   height:100px;
+   margin-left:auto;
+margin-right:auto;
+border:20px;
+border-style:solid;
+border-color:linear-gradient(to bottom, #FFDD00 20%, #937F00 50.3%, #B19900 59%);
+border-radius: 50px;
+box-sizing:border-box;
+padding:1reml
+}
+;
+
+
+
+.press>button:hover{
+    color:white;
+     background-color: #410a0a;
+    border:20px gold;
+border-style:outset;
+border-color:darkgoldenrod;
+border-radius: 50px;
+}
+
+
+
+.testimonies{
+right:35%;
+left:35%;
+    height:700px;
+}
+.testimonies>.review{
+    background-color: white;
+    height:700px;
+    width:800px;
+        border:19px rgba(235, 198, 40, 0.99);
+    border-color:rgba(235, 198, 40, 0.99);
+    border-style:solid;
+    }
+
+.review >.col-sm-4{
+    width:100px;
+}
+
+.demo{
+    width:400px;
+   text-align: justify-all;
+    text-align: center;
+   text-overflow: none;
+  
+    
+}
+
+
+.p-2{
+    width: 600px;
+    
+}
+.water{
+    background-color: white;
+}
+
+
+/*About*/
+
+.about{
+  background-color: white;
+}
+
+.greenthumb <img {
+    height:300px;
+    width:400px;
+}
+
+.grand <h1{
+text-align:center;
+    bottom:300px;
+}
+
+.nikki{
+     height:100%;
+    width:100%;
+    background-color:linear-gradient(to bottom, rgba(128, 128, 128, 0.29) 0%, rgb(255, 255, 255) 36.3%);
+   
+}
+.rodrick>.col_sm_8{
+    background:none;
+}
+.nikki{ 
+    height:100%;
+    width:100%;
+    background-color:linear-gradient(to bottom, rgba(128, 128, 128, 0.29) 0%, rgb(255, 255, 255) 36.3%);
+   
+}
