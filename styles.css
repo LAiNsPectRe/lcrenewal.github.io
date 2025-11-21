@@ -188,7 +188,7 @@ left:35%;
 
 /*About*/
 
-.about{
+.body < .about{
   background-color: white;
 }
 
@@ -337,5 +337,6 @@ border-color:#ffa700;
        font-size:46px;
      color: #ffa700; 
 }
+
 
 
