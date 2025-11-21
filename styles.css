@@ -1,5 +1,5 @@
 /* My Custom Css */
-body {
+.body {
     background-color: Black;
    
     
@@ -337,4 +337,5 @@ border-color:#ffa700;
        font-size:46px;
      color: #ffa700; 
 }
+
 
