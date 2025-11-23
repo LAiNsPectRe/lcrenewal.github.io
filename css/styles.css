@@ -1,0 +1,340 @@
+/* My Custom Css */
+body {
+    background-color: Black;
+   
+    
+}
+
+.navbar{
+    background:linear-gradient(to bottom,#983338,#75272A,#3B1214);
+     overflow: hidden;
+    
+}
+
+
+.navbar a{
+      font-family: "Ingrid Darling", cursive;
+    Color:white;
+    font-size:6rem;
+
+text-align: center;
+
+}
+
+
+ .navbar .navbar-nav .nav-link:hover
+{
+
+background:linear-gradient(to bottom,#331113,#652125);
+color:yellow;
+
+}
+
+h1{
+     font-family: "Fleur De Leah", cursive;
+    font-weight:500;
+    color: #ffa700;
+    font-size: 150px;
+    background: none;
+    
+    
+}
+
+
+
+h2{
+   font-family: "Merienda", cursive;
+    font-weight:500;
+    color: #ffa700;
+    font-size: 2rem;
+    background: none;
+    
+}
+
+h3{
+     font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+    font-size:30px;
+     color: #ffa700; 
+    margin-left:auto;
+    margin-right: auto;
+    padding:30px;
+      
+}
+
+h5{
+    font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+    font-size:46px;
+     color: #ffa700; 
+    
+    
+}
+
+h6{
+       font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+    font-size:rem;
+     color: #ffa700;
+    z-index:1;
+    
+}
+
+
+.jumbotron{
+     font-family: "Montserrat Alternates", sans-serif;
+    background:none;
+}
+
+
+
+.row{
+    
+    margin-right:auto;
+    margin-left:auto;
+}
+
+
+.teaparty<img{
+     margin-right:auto;
+    margin-left:auto;
+   
+}
+
+}
+
+.press{
+    margin-right: auto;
+    margin-left: auto;
+}
+.teaparty > button{
+ flex:row;
+ font-family: "Fleur De Leah", cursive;
+    overflow: hidden;
+    font-weight:500;
+    font-size:50px;
+    font-weight:500;
+    color:#ffa700;
+  background:linear-gradient(to bottom,#331113,#652125);
+   width:400px;
+   height:100px;
+   margin-left:auto;
+margin-right:auto;
+border-image-source: 2px linear-gradient(to bottom, #FFDD00 20%, #937F00 50.3%, #B19900 59%);
+border-radius: 50px;
+}
+
+.button::after {
+    content: '';
+    position:absolute;
+    width:107%;
+   height:102%;
+    border-image: 50px linear-gradient(to bottom, #FFDD00 20%, #937F00 50.3%, #B19900 59%);
+ z-index:-1;
+}
+
+
+.teaparty > button:hover{
+color:white;
+background-color: #410a0a;
+    border:20px gold;
+border-style:outset;
+border-color:darkgoldenrod;
+border-radius: 50px;
+}
+
+
+.testimonies{
+right:35%;
+left:35%;
+    height:700px;
+}
+.review:not(font){
+    display:flex; 
+    justify-content:center;
+    background-color: white;
+    height:700px;
+    width:800px;
+        border:19px rgba(235, 198, 40, 0.99);
+    border-color:rgba(235, 198, 40, 0.99);
+    border-style:solid;
+    }
+
+.review >.col-sm-4{
+    width:100px;
+}
+
+.demo{
+    width:400px;
+   text-align: justify-all;
+    text-align: center;
+   text-overflow: none;
+  
+    
+}
+
+
+.p-2{
+    width: 600px;
+    
+}
+.water{
+    background-color: white;
+}
+
+
+/*About*/
+
+.about{
+  background-color: white;
+}
+
+.pores{
+    background:linear-gradient(to bottom, rgba(193, 193, 193, 0) 4%, white 25.3%);
+    width:200rem;
+    height:200rem;
+    z-index:1;
+    margin-right:auto;
+    margin-left: auto;
+}
+
+.greenthumb < img {
+    height:300px;
+    width:400px;
+}
+
+.grand{
+    position:relative;
+text-align:center;
+    overflow:hidden;
+    z-index:2;
+   
+}
+
+
+
+.chan {
+    position:absolute;
+    overflow:hidden;
+    z-index:1;
+    
+}
+
+/*events*/
+
+.smarty{ 
+    
+    background:linear-gradient( to bottom right, #fff 0%, rgba(105, 105, 105, 0.69) 48.7%, rgba(128, 128, 128, 0.03), #fff 96.3%);
+    width:900px;
+    height: 650px;
+    z-index:-1;
+    border-radius:50px;
+
+}
+
+.pizza{
+    margin-right: auto;
+    margin-left:auto;
+}
+
+
+
+
+.form-group > label{
+ 
+     font-family: "Montserrat Alternates", sans-serif;
+       font-size:46px;
+     color: #ffa700; 
+ 
+}
+
+.form-control{
+    border-color:#ffa700;
+}
+.form-group-2> label{
+     font-family: "Montserrat Alternates", sans-serif;
+       font-size:46px;
+     color: #ffa700; 
+
+    
+}.form-group > label{
+     font-family: "Montserrat Alternates", sans-serif;
+       font-size:46px;
+     color: #ffa700; 
+}.form-group > label{
+     font-family: "Montserrat Alternates", sans-serif;
+       font-size:46px;
+     color: #ffa700; 
+}
+
+.iframe{
+    position:absolute;
+    margin: auto;
+}
+
+
+
+/*Contact page*/
+
+.contect{
+    background-color:white;
+}
+
+
+.communication{
+       font-family: "Fleur De Leah", cursive;
+    font-weight:500;
+    color: #ffa700;
+    font-size: 90pt;
+    background: none;
+}
+
+.contactinfo{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    right:500px;
+    bottom:300px;
+}
+
+.segway{
+        font-family: "Fleur De Leah", cursive;
+    font-weight:500;
+      font-size: 50pt;
+    color: #ffa700;
+   
+}
+
+
+.info{
+    font-size:20pt;
+}
+
+.circle{
+    border-left: 2px solid;
+    border-radius:2px;
+border-color:#ffa700;
+    height:350px;
+}
+
+/*footer*/
+.happyfeet{  
+        font-family: "Montserrat Alternates", sans-serif;
+        font-size:45px;
+        background:linear-gradient(to bottom,#983338,#75272A,#3B1214);
+        color:white;
+        height:50px;
+        
+}
+
+
+.contact-group >label{
+    font-family: "Montserrat Alternates", sans-serif;
+       font-size:46px;
+     color: #ffa700; 
+}
+
